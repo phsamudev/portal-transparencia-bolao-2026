@@ -1,6 +1,6 @@
 # Portal da Transparência Bolão 2026
 
-Landing page estática, em tom de paródia, para um Bolão da Copa 2026.
+Landing page estática do Portal da Transparência do Bolão da Copa 2026.
 
 ## Executar localmente
 
